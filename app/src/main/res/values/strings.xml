@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">THE WORLD MAP</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="map_api_key">AIzaSyCZNeUg4_e0PCRjucFhSZ73-lVM-vKaMHU</string>
+</resources>

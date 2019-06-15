@@ -1,0 +1,31 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+    </style>
+
+    <style name="MyTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:textColor">#ffffff</item>
+    </style>
+
+
+    <style name="buttonStyle" parent = "android:Widget.Button">
+        <item name ="android:background" >#555555</item>
+        <item name = "android:textColor">#ffffff</item>
+        <item name = "android:textSize">25sp</item>
+
+    </style>
+    <style name="barscolor" parent = "android:Widget.TextView">
+        <item name= "android:background">#ffffff</item>
+
+
+
+
+    </style>
+
+</resources>
